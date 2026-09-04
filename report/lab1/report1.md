@@ -1,5 +1,5 @@
 ---
-## Front matter
+## Author
 title: "Отчёт по лабораторной работе № 1"
 subtitle: "Установка и конфигурация операционной системы на виртуальную машину"
 author:
@@ -15,9 +15,10 @@ author:
 ## Generic options
 lang: ru-RU
 
-## Formats
-toc: true
-toc-title: "Содержание"
+## Title
+title: "Лабораторная работа №1"
+subtitle: "Установки и конфигурация операционной системы на виртуальную машину"
+license: "CC BY"
 ---
 
 # Цель работы
