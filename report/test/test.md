@@ -1,9 +1,9 @@
 ---
 ## Author
 author: 
-	name: Nazirov Alexey Anvarjanovich
-	student_id: 1032240002
-	email: 1032240002@rudn.ru
+  name: Nazirov Alexey Anvarjanovich
+  student_id: 1032240002
+  email: 1032240002@rudn.ru
 ---
 # Example
 
