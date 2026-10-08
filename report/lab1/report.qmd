@@ -1,7 +1,5 @@
 ---
 ## Author
-title: "Отчёт по лабораторной работе № 1"
-subtitle: "Установка и конфигурация операционной системы на виртуальную машину"
 author:
   - name: "Назиров Алексей Анваржанович"
     email: "1032240002@rudn.ru"
@@ -65,11 +63,11 @@ license: "CC BY"
 
 ### Иллюстрации к разделу 1
 
-![Окно настроек VirtualBox](image/01-vbox-settings.png){#fig-001 width=70%}
+![Окно настроек VirtualBox](image/1.png){#fig-001 width=70%}
 
-![Задание имени, типа ОС и объёма памяти](image/02-create-vm.png){#fig-002 width=70%}
+![Задание имени, типа ОС и объёма памяти](image/2.png){#fig-002 width=70%}
 
-![Подключение ISO-образа Rocky Linux](image/03-attach-iso.png){#fig-003 width=70%}
+![Подключение ISO-образа Rocky Linux](image/3.png){#fig-003 width=70%}
 
 ---
 
@@ -89,11 +87,11 @@ license: "CC BY"
 
 ### Иллюстрации к разделу 2
 
-![Меню параметров установки](image/04-install-summary.png){#fig-004 width=70%}
+![Меню параметров установки](image/4.png){#fig-004 width=70%}
 
-![Настройка сети и имени узла](image/05-network-settings.png){#fig-005 width=70%}
+![Настройка сети и имени узла](image/4.png){#fig-005 width=70%}
 
-![Создание пользователя и завершение установки](image/06-user-creation.png){#fig-006 width=70%}
+![Создание пользователя и завершение установки](image/4.png){#fig-006 width=70%}
 
 ---
 
@@ -109,7 +107,7 @@ license: "CC BY"
 
 ### Иллюстрации к разделу 3
 
-![Установка Guest Additions](image/07-guest-additions.png){#fig-007 width=70%}
+![Установка Guest Additions](image/4.png){#fig-007 width=70%}
 
 ---
 
@@ -164,10 +162,10 @@ license: "CC BY"
 
 ### Иллюстрации к домашнему заданию
 
-![Вывод команд анализа системы и характеристик ВМ](1.png){#fig-008 width=70%}
-![](2.png){#fig-008 width=70%}
-![](3.png){#fig-008 width=70%}
-![](4.png){#fig-008 width=70%}
+![Вывод команд анализа системы и характеристик ВМ](image/1.png){#fig-008 width=70%}
+![](image/2.png){#fig-008 width=70%}
+![](image/3.png){#fig-008 width=70%}
+![](image/4.png){#fig-008 width=70%}
 ---
 
 # Ответы на контрольные вопросы
